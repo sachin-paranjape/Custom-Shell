@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=My Shell
+Exec=/home/sam/projects/run_my_shell.sh
+Terminal=false
+Icon=utilities-terminal
+
