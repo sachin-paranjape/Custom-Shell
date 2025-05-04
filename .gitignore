@@ -1,0 +1,8 @@
+#Ignore compiled binaries
+my_shell
+
+#Ignore common build artifacts and temp files
+*.o
+*.out
+*~
+
