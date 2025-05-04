@@ -21,6 +21,7 @@ int main()
             continue;
         }
 
+        
         add_history(input);
         /*Save input to history for arrow keys*/
 
